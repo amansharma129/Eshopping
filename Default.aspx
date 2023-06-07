@@ -41,8 +41,7 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="Default.aspx">Home</a> </li>
                         <li><a href="About.aspx">About</a> </li>
-                        <%--<li><a href="#">Contact US</a> </li>--%>
-                        <%--<li><a href="#">Blog-</a> </li>--%>
+             
                         <li class="drodown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<b
                             class="caret"></b></a>
                             <ul class="dropdown-menu ">
@@ -91,12 +90,7 @@
                 <div class="carousel-inner">
                     <div class="item active">
                         <img src="ImgSlider/1.jpg" alt="Los Angeles" style="width: 100%;">
-                        <div class="carousel-caption">
-                          
-                               
-                            
-<%--                                <a class="btn btn-lg btn-primary" href="Products.aspx" role="button">Buy Now</a></p>--%>
-                        </div>
+                     
                     </div>
                     <div class="item">
                         <img src="ImgSlider/2.jpg" alt="Chicago" style="width: 100%;">
@@ -107,26 +101,16 @@
                                 20% off</p>
                         </div>
                     </div>
-                    <%--<div class="item">
-                        <img src="ImgSlider/3.png" alt="New york" style="width: 100%;">
-                        <div class="carousel-caption">
-                            <h3>
-                                On mobile you can get</h3>
-                            <p>
-                                25% off</p>
-                        </div>
-                    </div>--%>
+                    
                 </div>
-                <!-- Left and right controls -->
+
                 <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left">
                 </span><span class="sr-only">Previous</span> </a><a class="right carousel-control"
                     href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right">
                     </span><span class="sr-only">Next</span> </a>
             </div>
         </div>
-        <!---image slider End---->
     </div>
-    <!---Middle COntents start---->
     <hr />
     <div class="container center ">
         <div class="row ">
@@ -204,8 +188,7 @@
         </div>
     </div>
     </div>
-    <!---Middle COntents End---->
-    <!---Footer COntents Start here---->
+
     <hr />
     <footer>
             <div class ="container ">
@@ -216,7 +199,6 @@
             </div>
 
         </footer>
-    <!---Footer COntents End---->
     </form>
 </body>
 </html>
